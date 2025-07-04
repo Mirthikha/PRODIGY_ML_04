@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": ".\\tfenv\\Scripts\\python.exe",
+  "python.analysis.typeCheckingMode": "off"
+}

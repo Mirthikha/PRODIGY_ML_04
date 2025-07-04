@@ -1,0 +1,26 @@
+# Virtual environments
+tfenv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large files
+*.h5
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.avi
+*.csv
+*.npy
+*.zip
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
